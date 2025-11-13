@@ -1,0 +1,8 @@
+{
+  "name": "RipoAI",
+  "description": "A next-generation AI platform for chat, content creation, and development. Inspired by ChatGPT but more powerful, elegant, and advanced, RipoAI allows users to interact with multiple AI models, generate images and videos, analyze files, search the web in real time, and even build web apps with AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
